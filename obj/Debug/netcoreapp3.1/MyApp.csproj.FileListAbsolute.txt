@@ -1,0 +1,13 @@
+C:\Users\shichen.hong\Documents\GitHub\MyApp\bin\Debug\netcoreapp3.1\MyApp.exe
+C:\Users\shichen.hong\Documents\GitHub\MyApp\bin\Debug\netcoreapp3.1\MyApp.deps.json
+C:\Users\shichen.hong\Documents\GitHub\MyApp\bin\Debug\netcoreapp3.1\MyApp.runtimeconfig.json
+C:\Users\shichen.hong\Documents\GitHub\MyApp\bin\Debug\netcoreapp3.1\MyApp.runtimeconfig.dev.json
+C:\Users\shichen.hong\Documents\GitHub\MyApp\bin\Debug\netcoreapp3.1\MyApp.dll
+C:\Users\shichen.hong\Documents\GitHub\MyApp\bin\Debug\netcoreapp3.1\MyApp.pdb
+C:\Users\shichen.hong\Documents\GitHub\MyApp\obj\Debug\netcoreapp3.1\MyApp.csprojAssemblyReference.cache
+C:\Users\shichen.hong\Documents\GitHub\MyApp\obj\Debug\netcoreapp3.1\MyApp.AssemblyInfoInputs.cache
+C:\Users\shichen.hong\Documents\GitHub\MyApp\obj\Debug\netcoreapp3.1\MyApp.AssemblyInfo.cs
+C:\Users\shichen.hong\Documents\GitHub\MyApp\obj\Debug\netcoreapp3.1\MyApp.csproj.CoreCompileInputs.cache
+C:\Users\shichen.hong\Documents\GitHub\MyApp\obj\Debug\netcoreapp3.1\MyApp.dll
+C:\Users\shichen.hong\Documents\GitHub\MyApp\obj\Debug\netcoreapp3.1\MyApp.pdb
+C:\Users\shichen.hong\Documents\GitHub\MyApp\obj\Debug\netcoreapp3.1\MyApp.genruntimeconfig.cache
